@@ -5,7 +5,7 @@
 > AT89S52 (8051) microcontroller — programmed in Embedded C, 
 > simulated in Proteus, and deployed on real hardware!
 
-![Team Photo](team.jpg)
+![Team Photo](projectteam.jpg.jpeg)
 
 ---
 
@@ -24,15 +24,6 @@ requiring a hardware reset to restore access.
 Built as part of our Microcontroller course project — every peripheral 
 was interfaced, tested in simulation, and verified on real hardware.
 
----
-
-## Demo
-
-> Real hardware implementation on Aryabhatta Board
-
-![Hardware](hardware.jpg)
-
----
 
 ## Features
 
@@ -92,7 +83,7 @@ P3.7         →  Green LED (Active LOW)
 
 ## Block Diagram
 
-![Block Diagram](blockdiagram.jpg)
+![Block Diagram](blockdiagram.png)
 
 ---
 
